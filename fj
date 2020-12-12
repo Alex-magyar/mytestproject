@@ -1,0 +1,19 @@
+[33mcommit 87506c65e7a25a1190d6a58a86c2ce609b705ff1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Alex <csaalex@freemail.hu>
+Date:   Fri Dec 11 07:41:29 2020 +0100
+
+    Revert "FEAT: add paragraph"
+    
+    This reverts commit 0797d5abb5f7b8176f9d8a53b3c893e1c274fffc.
+
+[33mcommit 0797d5abb5f7b8176f9d8a53b3c893e1c274fffc[m
+Author: Alex <csaalex@freemail.hu>
+Date:   Fri Dec 11 07:25:21 2020 +0100
+
+    FEAT: add paragraph
+
+[33mcommit 9fa6a1d80a593ab1d8d963615a099c54b566dade[m
+Author: Alex <csaalex@freemail.hu>
+Date:   Fri Dec 11 07:07:37 2020 +0100
+
+    Create index.html
